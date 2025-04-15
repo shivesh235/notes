@@ -8,15 +8,15 @@
         * [Token Types](Tokenization.md#token-types)
         * [Special Tokens](Tokenization.md#special-tokens)
         * [Impact on model](Tokenization.md#impact-on-model)
-        * [Eamples](Tokenization.md#examples)
+        * [Examples](Tokenization.md#examples)
 
     * [**Embeddings**](Embeddings.md#embeddings)
         * [Definintion](Embeddings.md#definition)
         * [Types](Embeddings.md#types)
-        * [Creation](Embeddings.md#definition)
-        * [Use Cases](Embeddings.md#definition)
-        * [Fine-tuning](Embeddings.md#definition)
-        * [Evaluation](Embeddings.md#definition)
+        * [Creation](Embeddings.md#creation)
+        * [Use Cases](Embeddings.md#use-cases)
+        * [Fine-tuning](Embeddings.md#fine-tuning)
+        * [Evaluation](Embeddings.md#evaluation)
 
     * **Language Models**
         * Generative Models
