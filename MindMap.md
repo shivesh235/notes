@@ -24,26 +24,26 @@
         * [Encoder-Decoder Models](Models.md#encoder-decoder-models)
         * [Training](Models.md#training)
         * [Attention Mechanism](Models.md#attention-mechanisms)
-        * [Quantization](Models.md)
-        * [Evaluatioin](Models.md)
-        * [Tet Generation Techiques](Models.md)
+        * [Quantization](Models.md#quantization)
+        * [Evaluatioin](Models.md#evaluation)
+        * [Tet Generation Techiques](Models.md#text-generation-techniques)
 
-    * **Key Concepts**
-        * Vocabulary
-        * Context
-        * Parameters
-        * Vector Representations
-        * Transformers architecture
+    * [**Key Concepts**](keyconcepts.md#key-concepts)
+        * [Vocabulary](keyconcepts.md#vocabulary)
+        * [Context](keyconcepts.md#context)
+        * [Parameters](keyconcepts.md#parameters)
+        * [Vector Representations](keyconcepts.md#vector-representations)
+        * [Transformers architecture](keyconcepts.md#transformer-architecture)
 
-    * **Tools and Libraries**
-        * Hugging Face Transformers
-        * Gensim
-        * BERTopic
-        * rank_bm25
-        * Annoy/FAISS
-        * Weaviate/Pinecone
-        * llama-cpp-python
-        * matplotlib
+    * [**Tools and Libraries**](Tools.md#tools-and-libraries)
+        * [Hugging Face Transformers](Tools.md#hugging-face-transformers)
+        * [Gensim](Tools.md#gensim)
+        * [BERTopic](Tools.md#bertopic)
+        * [rank_bm25](Tools.md#rank_bm25)
+        * [Annoy/FAISS](Tools.md#annoyfaiss)
+        * [Weaviate/Pinecone](Tools.md#weaviatepinecone)
+        * [llama-cpp-python](Tools.md#llama-cpp-python)
+        * [matplotlib](Tools.md#matplotlib)
 
 ---
 
